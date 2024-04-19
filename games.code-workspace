@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "views",
+			"path": "views"
+		},
+		{
+			"name": "controllers",
+			"path": "controllers"
+		},
+		{
+			"name": "models",
+			"path": "models"
+		},
+		{
+			"name": "tests",
+			"path": "tests"
+		}
+	]
+}
